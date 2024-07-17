@@ -1,0 +1,88 @@
+UVM_INFO @ 0: reporter [RNTST] Running test test...
+UVM_INFO testbench.sv(51) @ 0: uvm_test_top.e.a.seqr@@gen [GEN] Data send to Driver a :15 , b :14, c:12, d:7, sel:1
+UVM_INFO testbench.sv(90) @ 0: uvm_test_top.e.a.d [DRV] Trigger DUT a: 15 ,b :  14 , c:12, d:7, sel:1
+UVM_INFO testbench.sv(129) @ 10000: uvm_test_top.e.a.m [MON] Data send to Scoreboard a : 15 , b : 14 c:12, d:7, sel:1 and y : 14
+UVM_INFO testbench.sv(155) @ 10000: uvm_test_top.e.s [SCO] Data rcvd from Monitor a: 15 , b : 14, c: 12, d: 7, sel: 1 and y : 14
+UVM_INFO testbench.sv(158) @ 10000: uvm_test_top.e.s [SCO] Test Passed
+UVM_INFO testbench.sv(51) @ 10000: uvm_test_top.e.a.seqr@@gen [GEN] Data send to Driver a :12 , b :5, c:3, d:6, sel:3
+UVM_INFO testbench.sv(90) @ 10000: uvm_test_top.e.a.d [DRV] Trigger DUT a: 12 ,b :  5 , c:3, d:6, sel:3
+UVM_INFO testbench.sv(129) @ 20000: uvm_test_top.e.a.m [MON] Data send to Scoreboard a : 12 , b : 5 c:3, d:6, sel:3 and y : 6
+UVM_INFO testbench.sv(155) @ 20000: uvm_test_top.e.s [SCO] Data rcvd from Monitor a: 12 , b : 5, c: 3, d: 6, sel: 3 and y : 6
+UVM_INFO testbench.sv(158) @ 20000: uvm_test_top.e.s [SCO] Test Passed
+UVM_INFO testbench.sv(51) @ 20000: uvm_test_top.e.a.seqr@@gen [GEN] Data send to Driver a :3 , b :8, c:10, d:13, sel:0
+UVM_INFO testbench.sv(90) @ 20000: uvm_test_top.e.a.d [DRV] Trigger DUT a: 3 ,b :  8 , c:10, d:13, sel:0
+UVM_INFO testbench.sv(129) @ 30000: uvm_test_top.e.a.m [MON] Data send to Scoreboard a : 3 , b : 8 c:10, d:13, sel:0 and y : 3
+UVM_INFO testbench.sv(155) @ 30000: uvm_test_top.e.s [SCO] Data rcvd from Monitor a: 3 , b : 8, c: 10, d: 13, sel: 0 and y : 3
+UVM_INFO testbench.sv(158) @ 30000: uvm_test_top.e.s [SCO] Test Passed
+UVM_INFO testbench.sv(51) @ 30000: uvm_test_top.e.a.seqr@@gen [GEN] Data send to Driver a :11 , b :9, c:6, d:4, sel:0
+UVM_INFO testbench.sv(90) @ 30000: uvm_test_top.e.a.d [DRV] Trigger DUT a: 11 ,b :  9 , c:6, d:4, sel:0
+UVM_INFO testbench.sv(129) @ 40000: uvm_test_top.e.a.m [MON] Data send to Scoreboard a : 11 , b : 9 c:6, d:4, sel:0 and y : 11
+UVM_INFO testbench.sv(155) @ 40000: uvm_test_top.e.s [SCO] Data rcvd from Monitor a: 11 , b : 9, c: 6, d: 4, sel: 0 and y : 11
+UVM_INFO testbench.sv(158) @ 40000: uvm_test_top.e.s [SCO] Test Passed
+UVM_INFO testbench.sv(51) @ 40000: uvm_test_top.e.a.seqr@@gen [GEN] Data send to Driver a :15 , b :15, c:8, d:15, sel:1
+UVM_INFO testbench.sv(90) @ 40000: uvm_test_top.e.a.d [DRV] Trigger DUT a: 15 ,b :  15 , c:8, d:15, sel:1
+UVM_INFO testbench.sv(129) @ 50000: uvm_test_top.e.a.m [MON] Data send to Scoreboard a : 15 , b : 15 c:8, d:15, sel:1 and y : 15
+UVM_INFO testbench.sv(155) @ 50000: uvm_test_top.e.s [SCO] Data rcvd from Monitor a: 15 , b : 15, c: 8, d: 15, sel: 1 and y : 15
+UVM_INFO testbench.sv(158) @ 50000: uvm_test_top.e.s [SCO] Test Passed
+UVM_INFO testbench.sv(51) @ 50000: uvm_test_top.e.a.seqr@@gen [GEN] Data send to Driver a :10 , b :5, c:8, d:4, sel:2
+UVM_INFO testbench.sv(90) @ 50000: uvm_test_top.e.a.d [DRV] Trigger DUT a: 10 ,b :  5 , c:8, d:4, sel:2
+UVM_INFO testbench.sv(129) @ 60000: uvm_test_top.e.a.m [MON] Data send to Scoreboard a : 10 , b : 5 c:8, d:4, sel:2 and y : 8
+UVM_INFO testbench.sv(155) @ 60000: uvm_test_top.e.s [SCO] Data rcvd from Monitor a: 10 , b : 5, c: 8, d: 4, sel: 2 and y : 8
+UVM_INFO testbench.sv(158) @ 60000: uvm_test_top.e.s [SCO] Test Passed
+UVM_INFO testbench.sv(51) @ 60000: uvm_test_top.e.a.seqr@@gen [GEN] Data send to Driver a :2 , b :9, c:5, d:12, sel:3
+UVM_INFO testbench.sv(90) @ 60000: uvm_test_top.e.a.d [DRV] Trigger DUT a: 2 ,b :  9 , c:5, d:12, sel:3
+UVM_INFO testbench.sv(129) @ 70000: uvm_test_top.e.a.m [MON] Data send to Scoreboard a : 2 , b : 9 c:5, d:12, sel:3 and y : 12
+UVM_INFO testbench.sv(155) @ 70000: uvm_test_top.e.s [SCO] Data rcvd from Monitor a: 2 , b : 9, c: 5, d: 12, sel: 3 and y : 12
+UVM_INFO testbench.sv(158) @ 70000: uvm_test_top.e.s [SCO] Test Passed
+UVM_INFO testbench.sv(51) @ 70000: uvm_test_top.e.a.seqr@@gen [GEN] Data send to Driver a :8 , b :8, c:2, d:10, sel:0
+UVM_INFO testbench.sv(90) @ 70000: uvm_test_top.e.a.d [DRV] Trigger DUT a: 8 ,b :  8 , c:2, d:10, sel:0
+UVM_INFO testbench.sv(129) @ 80000: uvm_test_top.e.a.m [MON] Data send to Scoreboard a : 8 , b : 8 c:2, d:10, sel:0 and y : 8
+UVM_INFO testbench.sv(155) @ 80000: uvm_test_top.e.s [SCO] Data rcvd from Monitor a: 8 , b : 8, c: 2, d: 10, sel: 0 and y : 8
+UVM_INFO testbench.sv(158) @ 80000: uvm_test_top.e.s [SCO] Test Passed
+UVM_INFO testbench.sv(51) @ 80000: uvm_test_top.e.a.seqr@@gen [GEN] Data send to Driver a :11 , b :9, c:4, d:2, sel:3
+UVM_INFO testbench.sv(90) @ 80000: uvm_test_top.e.a.d [DRV] Trigger DUT a: 11 ,b :  9 , c:4, d:2, sel:3
+UVM_INFO testbench.sv(129) @ 90000: uvm_test_top.e.a.m [MON] Data send to Scoreboard a : 11 , b : 9 c:4, d:2, sel:3 and y : 2
+UVM_INFO testbench.sv(155) @ 90000: uvm_test_top.e.s [SCO] Data rcvd from Monitor a: 11 , b : 9, c: 4, d: 2, sel: 3 and y : 2
+UVM_INFO testbench.sv(158) @ 90000: uvm_test_top.e.s [SCO] Test Passed
+UVM_INFO testbench.sv(51) @ 90000: uvm_test_top.e.a.seqr@@gen [GEN] Data send to Driver a :6 , b :5, c:4, d:13, sel:0
+UVM_INFO testbench.sv(90) @ 90000: uvm_test_top.e.a.d [DRV] Trigger DUT a: 6 ,b :  5 , c:4, d:13, sel:0
+UVM_INFO testbench.sv(129) @ 100000: uvm_test_top.e.a.m [MON] Data send to Scoreboard a : 6 , b : 5 c:4, d:13, sel:0 and y : 6
+UVM_INFO testbench.sv(155) @ 100000: uvm_test_top.e.s [SCO] Data rcvd from Monitor a: 6 , b : 5, c: 4, d: 13, sel: 0 and y : 6
+UVM_INFO testbench.sv(158) @ 100000: uvm_test_top.e.s [SCO] Test Passed
+UVM_INFO testbench.sv(129) @ 110000: uvm_test_top.e.a.m [MON] Data send to Scoreboard a : 6 , b : 5 c:4, d:13, sel:0 and y : 6
+UVM_INFO testbench.sv(155) @ 110000: uvm_test_top.e.s [SCO] Data rcvd from Monitor a: 6 , b : 5, c: 4, d: 13, sel: 0 and y : 6
+UVM_INFO testbench.sv(158) @ 110000: uvm_test_top.e.s [SCO] Test Passed
+UVM_INFO testbench.sv(129) @ 120000: uvm_test_top.e.a.m [MON] Data send to Scoreboard a : 6 , b : 5 c:4, d:13, sel:0 and y : 6
+UVM_INFO testbench.sv(155) @ 120000: uvm_test_top.e.s [SCO] Data rcvd from Monitor a: 6 , b : 5, c: 4, d: 13, sel: 0 and y : 6
+UVM_INFO testbench.sv(158) @ 120000: uvm_test_top.e.s [SCO] Test Passed
+UVM_INFO testbench.sv(129) @ 130000: uvm_test_top.e.a.m [MON] Data send to Scoreboard a : 6 , b : 5 c:4, d:13, sel:0 and y : 6
+UVM_INFO testbench.sv(155) @ 130000: uvm_test_top.e.s [SCO] Data rcvd from Monitor a: 6 , b : 5, c: 4, d: 13, sel: 0 and y : 6
+UVM_INFO testbench.sv(158) @ 130000: uvm_test_top.e.s [SCO] Test Passed
+UVM_INFO testbench.sv(129) @ 140000: uvm_test_top.e.a.m [MON] Data send to Scoreboard a : 6 , b : 5 c:4, d:13, sel:0 and y : 6
+UVM_INFO testbench.sv(155) @ 140000: uvm_test_top.e.s [SCO] Data rcvd from Monitor a: 6 , b : 5, c: 4, d: 13, sel: 0 and y : 6
+UVM_INFO testbench.sv(158) @ 140000: uvm_test_top.e.s [SCO] Test Passed
+UVM_INFO /apps/vcsmx/vcs/U-2023.03-SP2//etc/uvm-1.2/src/base/uvm_objection.svh(1276) @ 140000: reporter [TEST_DONE] 'run' phase is ready to proceed to the 'extract' phase
+UVM_INFO /apps/vcsmx/vcs/U-2023.03-SP2//etc/uvm-1.2/src/base/uvm_report_server.svh(904) @ 140000: reporter [UVM/REPORT/SERVER] 
+--- UVM Report Summary ---
+
+** Report counts by severity
+UVM_INFO :   65
+UVM_WARNING :    0
+UVM_ERROR :    0
+UVM_FATAL :    0
+** Report counts by id
+[DRV]    10
+[GEN]    10
+[MON]    14
+[RNTST]     1
+[SCO]    28
+[TEST_DONE]     1
+[UVM/RELNOTES]     1
+
+$finish called from file "/apps/vcsmx/vcs/U-2023.03-SP2//etc/uvm-1.2/src/base/uvm_root.svh", line 527.
+$finish at simulation time               140000
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 140000 ps
+CPU Time:      0.510 seconds;       Data structure size:   0.4Mb
+Wed Jul 17 12:16:01 2024
+Done
